@@ -3,10 +3,6 @@ title: "Demo Post"
 date: 2023-10-23 12:00:00 +0000
 categories: [Robotics, Tutorial]
 tags: [robotic-arm, tutorial, jekyll]
-author: AUTHORNAME
-image:
-  path: /assets/img/robotic-arm.jpg
-  alt: "Robotic Arm"
 ---
 
 # Introduction
