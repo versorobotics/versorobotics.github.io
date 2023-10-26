@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Verso Arm # the main title
+title: Verso Robotics # the main title
 
-tagline: Open-Source 6DOF Robotic Arm Platform # it will display as the sub-title
+tagline: 6-Axis Robotic Arm Platform # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  An affordable, customizable way to build 6DOF arms which are capable of precise movement and strong actuation.
+  An open-sourced, affordable, & customizable way to build 6-axis robotic arms which are capable of precise movement and strong actuation.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -28,13 +28,13 @@ url: "https://versorobotics.github.io"
 github:
   username: versorobotics # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#   username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: VERSOROBOTICS
+  name: Verso Robotics
   email: nkvsairobotics@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
