@@ -24,6 +24,7 @@ The Verso Platform is an accessible hub for robotic enthusiasts and students to 
 At the heart of the Verso Platform lies a custom-designed Printed Circuit Board (PCB) configured to connect motors, sensors, and additional features to the microcontroller (MCU). The primary MCU in use is the Teensy 4.1, with compatibility with up to six stepper motors and nine limit switches, forming the nervous system of your robotic arm.
 
 #TODO add image of PCB
+
 [**Electronics**](https://versorobotics.com/posts/electronics/)
 
 ## Gearboxes
@@ -31,6 +32,7 @@ At the heart of the Verso Platform lies a custom-designed Printed Circuit Board 
 The Verso Platform features two meticulously designed cycloidal gearboxes with different ratios, offering flexibility and adaptability to your project. These gearboxes come in 1:24 and 1:11 ratios, designed to be easily assembled and produced using 3D printing, laser cutting, or CNC milling techniques.
 
 #TODO add image of gearbox
+
 [**Cycloidal Gearboxes**](https://versorobotics.com/posts/gearboxes/)
 
 ## Assembly
