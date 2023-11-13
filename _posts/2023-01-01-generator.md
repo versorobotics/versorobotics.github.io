@@ -44,5 +44,5 @@ To utilize the generator:
 The parametric equations for our epitrochoidal gears are as follows:
 
 $$ x(t) = R \cdot \cos(t) - S \cdot \cos\left(t + \arctan\left(\frac{\sin((1 - N) \cdot t)}{\left(\frac{R}{E \cdot N}\right) - \cos((1 - N) \cdot t)}\right)\right) - E \cdot \cos(N \cdot t) $$
-$$ y(t) = R \cdot \sin(t) - S \cdot \sin\left(t + \arctan\left(\frac{\sin((1 - N) \cdot t)}{\left(\frac{R}{E \cdot N}\right) - \cos((1 - N) \cdot t)}\right)\right) - E \cdot \sin(N \cdot t) $$
 
+$$ y(t) = R \cdot \sin(t) - S \cdot \sin\left(t + \arctan\left(\frac{\sin((1 - N) \cdot t)}{\left(\frac{R}{E \cdot N}\right) - \cos((1 - N) \cdot t)}\right)\right) - E \cdot \sin(N \cdot t) $$
