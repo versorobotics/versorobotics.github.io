@@ -7,7 +7,7 @@ author: <verso>
 ---
 
 > WORK IN PROGRESS
-{: .prompt-info }
+> {: .prompt-info }
 
 # Introduction
 
@@ -43,17 +43,9 @@ Both the Verso Arm S and Verso Arm N are tailored for production with hobbyist-g
 
 [**Assembly**](https://versorobotics.com/posts/assembly/)
 
-## Firmware
-
-The Verso Platform includes a simple firmware for testing the motors and sensors. The firmware is written in C++ and is intended as a reference and starting point for users to create their own firmware.
-
-#TODO add image of firmware code
-
-[**Firmware**](https://versorobotics.com/posts/firmware/)
-
 ## Bill of Materials
 
-The Verso Platform is designed to be easy to source and manufacture. The bill of materials includes links to purchase the components and the CAD files for the components. 
+The Verso Platform is designed to be easy to source and manufacture. The bill of materials includes links to purchase the components and the CAD files for the components.
 
 #TODO add image of BOM
 
