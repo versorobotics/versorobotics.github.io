@@ -6,7 +6,7 @@ tags: [verso, tutorial]
 author: <verso>
 math: true
 image: 
-    path: /assets/img/gallery/desmosAnim1.gif
+    path: /assets/img/gallery/cycloidgif.gif
 ---
 
 The Cycloidal Function Generator is an open-source tool crafted to facilitate the creation of cycloidal gears through parametric design. Utilizing the Desmos API, this tool allows the generation of epitrochoid functions, which represent the path traced by a point on a circle as it rolls around the exterior of another circle. This functionality is crucial for designing complex mechanical systems like the Verso arm's actuators.

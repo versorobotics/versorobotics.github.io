@@ -3,6 +3,9 @@ title: "Getting Started"
 date: 2023-01-01 00:00:00 +0000
 categories: [Robotics, Tutorial]
 tags: [verso, tutorial]
+pin: true
+math: true
+mermaid: true
 author: <verso>
 ---
 
@@ -27,13 +30,22 @@ At the heart of the Verso Platform lies a custom-designed Printed Circuit Board 
 
 [**Electronics**](https://versorobotics.com/posts/electronics/)
 
-## Gearboxes
+## Cycloidal Actuators
+![Our Cycloidal Actuator](/assets/img/gallery/cycloid3.png){: width="300" .shadow .rounded-10 .w-50 .right}
 
-The Verso Platform features two meticulously designed cycloidal gearboxes with different ratios, offering flexibility and adaptability to your project. These gearboxes come in 1:24 and 1:11 ratios, designed to be easily assembled and produced using 3D printing, laser cutting, or CNC milling techniques.
+The Verso Platform features two meticulously designed cycloidal gearboxes with different ratios, offering flexibility and adaptability to your project. These gearboxes come in 1:24 and 1:11 ratios, designed to be easily assembled and produced using 3D printing, laser cutting, or CNC milling techniques. They were created with our epitrochoid function generator, which is below - though feel free to use our existing files, they are very versatile!
 
-#TODO add image of gearbox
+[**Cycloidal Actuators**](https://versorobotics.com/posts/gearboxes/)
 
-[**Cycloidal Gearboxes**](https://versorobotics.com/posts/gearboxes/)
+## Cycloid Function Generator
+
+![Desmos Animation](/assets/img/gallery/cycloidgif.gif){:width="600" height="400" .shadow .rounded-10 .w-50 .right}
+
+
+
+The Cycloidal Function Generator is an open-source tool crafted to facilitate the creation of cycloidal gears through parametric design. Utilizing the Desmos API, this tool allows the generation of epitrochoid functions, which represent the path traced by a point on a circle as it rolls around the exterior of another circle. This functionality is crucial for designing complex mechanical systems like the Verso arm's actuators.
+
+[**Cycloid Generator**](https://versorobotics.com/posts/generator/)
 
 ## Assembly
 
