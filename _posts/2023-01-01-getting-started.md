@@ -8,9 +8,9 @@ math: true
 mermaid: true
 author: <verso>
 ---
-
+<!-- 
 > WORK IN PROGRESS
-{: .prompt-info }
+{: .prompt-info } -->
 
 # Introduction
 
