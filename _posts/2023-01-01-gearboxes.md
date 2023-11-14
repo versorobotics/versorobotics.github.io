@@ -33,7 +33,3 @@ The Cycloidal Function Generator was instrumental in creating gearboxes for the 
 Use the generator to customize gearboxes for your own projects [here](https://versorobotics.com/posts/generator/).
 
 
-
-> WORK IN PROGRESS
-{: .prompt-info }
-
