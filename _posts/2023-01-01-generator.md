@@ -1,9 +1,10 @@
 ---
 title: "Cycloid Function Generator"
 date: 2023-01-01 00:00:00 +0000
-categories: [Robotics, Tutorial]
+categories: [Documentation, Hardware]
 tags: [verso, tutorial]
 author: <verso>
+pin: true
 math: true
 image: 
     path: /assets/img/gallery/cycloidgif.gif

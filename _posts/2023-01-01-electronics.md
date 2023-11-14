@@ -1,9 +1,10 @@
 ---
 title: "Electronics"
 date: 2023-01-01 00:00:00 +0000
-categories: [Robotics, Tutorial]
+categories: [Documentation, Electronics]
 tags: [verso, tutorial]
 author: <verso>
+pin: true
 image: 
     path: /assets/img/electronics/thumbnail.png
 ---
