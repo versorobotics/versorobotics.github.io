@@ -5,7 +5,7 @@ categories: [Documentation, Hardware]
 tags: [verso, tutorial]
 author: <verso>
 image: 
-    path: /assets/img/gallery/cycloid2.png
+    path: /assets/img/gallery/cycloid-thumbnail.png
 ---
 ## Fabrication Methods
 Verso arm gearboxes can be fabricated using multiple methods:
