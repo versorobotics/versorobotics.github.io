@@ -77,8 +77,6 @@ The OLED display, using I2C communication, offers a user-friendly interface for 
 ### Description
 A Bluetooth transceiver enables wireless communication, facilitating remote control and data transmission.
 
-![Desktop View](/assets/img/electronics/ss_bluetooth.png)
-
 ### Design Choices
 - **Wireless Communication:** Provides flexibility and convenience in controlling the board remotely.
 
