@@ -5,7 +5,7 @@ categories: [Documentation, Hardware]
 tags: [verso, tutorial]
 author: <verso>
 image:
-  path: /assets/img/gearboxes/cycloid-thumbnail.png
+  path: /assets/img/gearboxes/thumbnail.png
 ---
 
 ## Fabrication Methods
