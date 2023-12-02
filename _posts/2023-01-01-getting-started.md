@@ -33,7 +33,7 @@ At the heart of the Verso Platform lies a custom-designed Printed Circuit Board 
 
 ## Cycloidal Actuators
 
-![Our Cycloidal Actuator](/assets/img/gallery/cycloid-thumbnail.png){: .shadow .rounded-100}
+![Our Cycloidal Actuator](assets/img/gearboxes/cycloid-thumbnail.png){: .shadow .rounded-100}
 
 The Verso Platform features two meticulously designed cycloidal gearboxes with different ratios, offering flexibility and adaptability to your project. These gearboxes come in 1:24 and 1:11 ratios, designed to be easily assembled and produced using 3D printing, laser cutting, or CNC milling techniques. They were created with our epitrochoid function generator, which is below - though feel free to use our existing files, they are very versatile!
 
