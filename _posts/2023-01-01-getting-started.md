@@ -41,7 +41,7 @@ The Verso Platform features two meticulously designed cycloidal gearboxes with d
 
 ## Cycloid Function Generator
 
-![Desmos Animation](/assets/img/gallery/cycloidgif.gif){: .shadow .rounded-100}
+![Desmos Animation](/assets/img/cycloid_gen/cycloidgif.gif)
 
 The Cycloidal Function Generator is an open-source tool crafted to facilitate the creation of cycloidal gears through parametric design. Utilizing the Desmos API, this tool allows the generation of epitrochoid functions, which represent the path traced by a point on a circle as it rolls around the exterior of another circle. This functionality is crucial for designing complex mechanical systems like the Verso arm's actuators.
 
