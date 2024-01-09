@@ -17,13 +17,9 @@ author: <verso>
 
 The Verso Platform is an accessible hub for robotic enthusiasts and students to craft robotic arms. It is designed to be easy to assemble and program and is a great way to learn about robotics. The entire robotic arm project is intentionally budget-friendly, with a total cost estimated at under $400. We created 2 versions of the robotic arm, which each use the Verso platform to build custom robotic arms. We offer two distinct examples of 6-axis robotic arms, known as the Verso Arm S and Verso Arm N, using the versatile Verso platform.
 
-#TODO: Update price
-
 [**Image Gallery**](https://versorobotics.com/posts/gallery/)
 
-#TODO: Add images and captions of the robotic arms (Verso Arm S, Verso Arm N)
-
-## Electonics
+## Electronics
 
 ![PCB](/assets/img/electronics/thumbnail.png){: .shadow .rounded-100}
 
@@ -51,14 +47,14 @@ The Cycloidal Function Generator is an open-source tool crafted to facilitate th
 
 Both the Verso Arm S and Verso Arm N are tailored for production with hobbyist-grade 3D printers and laser cutters. While they share the Verso Platform as their foundation, each embodies unique design aesthetics to showcase the versatility of the platform.
 
-#TODO add image of Verso Arm S and Verso Arm N Assemblies
+![Assembly](/assets/img/gallery/1.png)
 
 [**Assembly**](https://versorobotics.com/posts/assembly/)
 
 ## Bill of Materials
 
 The Verso Platform is designed to be easy to source and manufacture. The bill of materials includes links to purchase the components and the CAD files for the components.
-
-#TODO add image of BOM
+![BOM](/assets/img/VersoBOM.png){: .shadow .rounded-100}
 
 [**Bill of Materials**](https://versorobotics.com/posts/bom/)
+![BOM](/assets/img/VersoBOM.png){: .shadow .rounded-100}
