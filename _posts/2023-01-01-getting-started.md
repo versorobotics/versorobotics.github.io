@@ -9,9 +9,6 @@ mermaid: true
 author: <verso>
 ---
 
-<!--
-> WORK IN PROGRESS
-{: .prompt-info } -->
 
 # Introduction
 
