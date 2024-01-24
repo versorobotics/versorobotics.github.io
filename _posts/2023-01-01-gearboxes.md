@@ -4,7 +4,6 @@ date: 2023-01-02 00:00:00 +0000
 categories: [Documentation, Hardware]
 tags: [verso, tutorial]
 author: <verso>
-pin: true
 image:
   path: /assets/img/gearboxes/thumbnail.png
 ---
