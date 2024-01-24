@@ -40,14 +40,6 @@ The Cycloidal Function Generator is an open-source tool crafted to facilitate th
 
 [**Cycloid Generator**](https://versorobotics.com/posts/generator/)
 
-## Assembly
-
-Both the Verso Arm S and Verso Arm N are tailored for production with hobbyist-grade 3D printers and laser cutters. While they share the Verso Platform as their foundation, each embodies unique design aesthetics to showcase the versatility of the platform.
-
-![Assembly](/assets/img/gallery/1.png)
-
-[**Assembly**](https://versorobotics.com/posts/assembly/)
-
 ## Bill of Materials
 
 The Verso Platform is designed to be easy to source and manufacture. The bill of materials includes links to purchase the components and the CAD files for the components.
@@ -55,3 +47,12 @@ The Verso Platform is designed to be easy to source and manufacture. The bill of
 
 [**Bill of Materials**](https://versorobotics.com/posts/bom/)
 ![BOM](/assets/img/VersoBOM.png){: .shadow .rounded-100}
+
+
+## Assembly
+
+Both the Verso Arm S and Verso Arm N are tailored for production with hobbyist-grade 3D printers and laser cutters. While they share the Verso Platform as their foundation, each embodies unique design aesthetics to showcase the versatility of the platform.
+
+![Assembly](/assets/img/gallery/1.png)
+
+[**Assembly**](https://versorobotics.com/posts/assembly/)
