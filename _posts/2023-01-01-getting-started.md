@@ -44,10 +44,7 @@ The Cycloidal Function Generator is an open-source tool crafted to facilitate th
 
 The Verso Platform is designed to be easy to source and manufacture. The bill of materials includes links to purchase the components and the CAD files for the components.
 ![BOM](/assets/img/VersoBOM.png){: .shadow .rounded-100}
-
 [**Bill of Materials**](https://versorobotics.com/posts/bom/)
-![BOM](/assets/img/VersoBOM.png){: .shadow .rounded-100}
-
 
 ## Assembly
 
